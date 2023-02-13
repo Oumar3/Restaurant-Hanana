@@ -2,3 +2,5 @@ __init__.py
 env_resto
 db.sqlite3
 *.pyc
+
+img
